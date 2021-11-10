@@ -13,10 +13,15 @@ Utilizamos uma VM como base para operar o Ansible!
 ### Aprendizado:
 
 Automatização da instalação de uma máquina.
+
 Provisionamento de tarefas usando Ansible.
+
 Aplicação de boas práticas com variáveis e templates.
+
 Reutilização de tarefas com roles.
+
 Criação de ambientes complexos com um simples script.
+
 Realizar deploys com Ansible.
 
 ## Author:
