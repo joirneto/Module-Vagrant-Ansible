@@ -1,0 +1,4 @@
+.vagrant
+id_key
+id_key.pub  
+mysql.cnf
